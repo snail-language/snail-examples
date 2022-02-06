@@ -1,4 +1,4 @@
-# snail-examples
+# snail-examples :snail:
 This repository contains a few simple programs as examples of computation in the
 [snail programming language](https://snail-language.github.io).  These are
 useful both for understanding snail and also for basic test cases for an
